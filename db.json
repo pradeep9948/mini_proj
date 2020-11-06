@@ -1,0 +1,45 @@
+{
+  "blogs": [
+    {
+      
+      "title": "json-server",
+      "category":"Nature",
+      "author":"pk",
+      "content":"aaaaaaaaaaaa",
+      "like-count":0
+    },
+    {
+      "title": "json-server",
+      "category":"Motivation",
+      "author":"pk1",
+      "content":"bbbbbbbbbbbb", 
+      "like-count":0
+    },
+    {
+
+      "title": "json-server",
+      "category":"Technology",
+      "author":"pk2",
+      "content":"ccccccccccccc",
+      "like-count":0
+    },
+    {
+      
+      "title": "json-server1",
+      "category":"Nature",
+      "author":"pk3",
+      "content":"aaaaaaaaaaaa",
+      "like-count":0
+    },
+    {
+      
+      "title": "json-server2",
+      "category":"Nature",
+      "author":"pk4",
+      "content":"aaaaaaaaaaaa", 
+      "like-count":0
+
+    }
+  ]
+ 
+}
